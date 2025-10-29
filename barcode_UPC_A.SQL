@@ -8,6 +8,7 @@ select upc = '05100001251' into #upc
 drop table if exists #code_mapping 
 
 
+
 select digit = '0' , pattern = '0001101' , comment = 'Left pattern for "0"' 
 into #code_mapping
  union all

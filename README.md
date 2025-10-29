@@ -1,2 +1,2 @@
 # SQL-Barcode
-To use SQL to generate scannable barcode
+Using SQL to generate scannable barcode

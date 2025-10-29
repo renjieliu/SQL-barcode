@@ -1,5 +1,5 @@
 # SQL-Barcode
-Using SQL to generate scannable barcode
+Using SQL in SSMS to generate scannable barcode
 
 ## barcode_code_128.SQL to geneate barcode following code 128 standard.
 
